@@ -1,0 +1,6 @@
+name: Morrnd Dice
+main: uk.morrnd.dice.Main
+version: 1.0
+commands:
+    roll:
+        description: Roll a die!
